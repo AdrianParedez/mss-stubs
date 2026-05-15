@@ -2,7 +2,7 @@
 
 [![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/)
-[![PyPI](https://img.shields.io/pypi/v/mss-stubs.svg)](https://pypi.org/project/mss-stubs/)
+[![PyPI](https://img.shields.io/pypi/v/mss-stubs?style=flat)](https://pypi.org/project/mss-stubs/)
 
 [PEP 561](https://peps.python.org/pep-0561/) type stubs for [mss](https://github.com/ScreenPy/mss), the cross-platform screenshot library.
 
